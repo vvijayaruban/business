@@ -94,3 +94,4 @@ nCrunchTemp_*
 
 # Typescript
 **/node_modules/@types/
+.vs/

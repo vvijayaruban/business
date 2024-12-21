@@ -1,0 +1,244 @@
+{
+    "days": [
+        {
+            "consumptionDate": "2024-12-01",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 9.283,
+                    "Cost": 2.1820944705000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-02",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 9.251,
+                    "Cost": 2.1745724385000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-03",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.975,
+                    "Cost": 1.6395679125000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-04",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 5.855,
+                    "Cost": 1.3762967925000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-05",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 5.606,
+                    "Cost": 1.3177659810000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-06",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 4.775,
+                    "Cost": 1.1224282125000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-07",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 7.770,
+                    "Cost": 1.8264433950000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-08",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 11.909,
+                    "Cost": 2.7993712215000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-09",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.697,
+                    "Cost": 1.5742202595000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-10",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.738,
+                    "Cost": 1.5838578630000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-11",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 7.412,
+                    "Cost": 1.7422906620000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-12",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.960,
+                    "Cost": 1.6360419600000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-13",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.848,
+                    "Cost": 1.6097148480000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-14",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.836,
+                    "Cost": 1.6068940860000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-15",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 7.208,
+                    "Cost": 1.6943377080000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-16",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 8.411,
+                    "Cost": 1.9771190985000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-17",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 5.470,
+                    "Cost": 1.2857973450000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-18",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 5.712,
+                    "Cost": 1.3426827120000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        },
+        {
+            "consumptionDate": "2024-12-19",
+            "totals": {
+                "ANYTIME": {
+                    "Quality": "A",
+                    "Units": 6.174,
+                    "Cost": 1.4512820490000
+                }
+            },
+            "amountSaved": 0.0000000000000,
+            "amountSavedUsagePercentage": 100.0
+        }
+    ],
+    "fixedCosts": {
+        "details": [
+            {
+                "StartDate": "2024-12-01T00:00:00",
+                "EndDate": "2024-12-19T00:00:00+00:00",
+                "Days": 19,
+                "Rate": 0.6831825000,
+                "Total": 12.9804675000
+            }
+        ],
+        "total": 12.9804675000
+    }
+}
